@@ -9,9 +9,11 @@ namespace WebGental.BookStore.Controllers
         {
             return View();
         }
-        public ViewResult About()
+        public ViewResult ContactUs()
         {
             return View();
         }
+
     } 
 }
+
